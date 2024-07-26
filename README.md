@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @swuqqe
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning JavaScript
+- 👋 bye!
